@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Scripture5</string>
+
+    <string name="enter_scripture">Enter a favorite scripture</string>
+    <string name="enter_book">Book</string>
+    <string name="enter_chapter">Chapter</string>
+    <string name="enter_verse">Verse</string>
+    <string name="button_send">Show Scripture</string>
+    <string name="colon">\u003A</string>
+    <string name="save_scripture">Save Scripture</string>
+    <string name="load_scripture">Load Scripture</string>
+    <string name="share_Fav">Your favorite Scripture is</string>
+
+</resources>
